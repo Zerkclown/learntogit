@@ -1,2 +1,2 @@
-//this is the first change
-var k = "first cahnge"
+//this is the first change fixes
+var k = "first change"
